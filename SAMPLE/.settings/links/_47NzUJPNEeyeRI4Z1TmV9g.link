@@ -1,0 +1,29 @@
+{
+  "itemId" : "_47NzUJPNEeyeRI4Z1TmV9g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_7mCPQJPXEeyeRI4Z1TmV9g",
+    "parameterList" : [ {
+      "id" : "_7mh-gZPXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Server"
+    }, {
+      "id" : "_7mh-gpPXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Sid"
+    }, {
+      "id" : "_7mh-g5PXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Login"
+    }, {
+      "id" : "_7mh-hJPXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Password"
+    }, {
+      "id" : "_7mh-hZPXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Schema"
+    }, {
+      "id" : "_7mh-hpPXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_Port"
+    }, {
+      "id" : "_7mh-h5PXEeyeRI4Z1TmV9g",
+      "name" : "Oracle_dev_AdditionalParams"
+    } ]
+  } ]
+}
